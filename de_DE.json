@@ -1,0 +1,136 @@
+{
+    "logIn" : "Einloggen",
+    "email": "Email",
+    "password": "Passwort",
+
+    "tabScan": "Scan",
+    "unstore": "Aufheben",
+    "mounted": "Montiert",
+    "move": "Bewegen",
+    "moveToVirtualSpace":"Bewegen Sie sich in den virtuellen Raum",
+    "allWheelsInWheelset": "Alle Räder im Radsatz",
+    "moveTo": "Ziehen nach:",
+    "trash": "Müll",
+    "customer": "Kunde",
+
+    "tabHome": "Heim",
+    "storageRequest": "Speicheranfragen",
+    "deliveryRequest": "Lieferanfragen",
+    "tasks": "Aufgaben",
+    "lastActions": "Letzte Aktionen",
+    "searchFor": "Suchen nach {}",
+
+    "tabSearch": "Suche",
+    "licenceplate": "Nummernschild",
+    "name": "Name",
+
+    "call": "Anruf",
+
+    "wheelDetails": "Raddetails",
+    "copyToAllWheels": "Auf alle Räder kopieren",
+    "goodyear": "Efficientgrip-Leistung von Goodyear",
+    "steel": "Stahl",
+    "alu": "Alu",
+    "rimCov": "Rim\nCov.",
+    "profiles": "Profile",
+    "rim": "Rand",
+    "imagesNotes":   "Bilder & Notizen ({})",
+    "note": "Hinweis:",
+    "Images": "Bilder ({})",
+    "wheelTasks": "Aufgaben ({})",
+    "printLabels": "Etiketten drucken",
+
+    "size": "Größe",
+    "ratio": "Verhältnis",
+    "speed": "Geschwindigkeit",
+    "rd": "F/E",
+
+    "load": "Belastung",
+    "screws": "Schrauben",
+    "seasons": "Jahreszeiten",
+    "rimType": "Felgentyp",
+    "cover": "Abdeckung",
+    "rdks": "RDKS",
+    "profileWithNumber": "Profil {}",
+    "inCar": "Im Aut",
+    "stored": "Gelagert",
+
+    "addTask": "Aufgabe hinzufügen",
+    "when": "Wann",
+    "due": "Fällig",
+
+    "newTitle": "Neuer Titel",
+    "addTextHere": "Hier Text hinzufügen...",
+
+    "storageRequestScreen": "Speicheranfrage",
+    "status": "Status",
+    "waitingStatus": "Warten",
+    "transitStatus": "Transit",
+    "doneStatus": "Fertig",
+    "pickUpFrom": "Aufheben von:",
+
+    "deliveryRequestScreen": "Lieferungsanfrage",
+    "deliveryTo": "Lieferung nach:",
+
+    "tasksScreen": "Aufgaben",
+    "allTasks": "Alle Aufgaben",
+    "dueData": "Geburtstermin",
+    "pos": "Pos.",
+    "taskNotStarted": "Nicht angefangen",
+    "taskDone": "Fertig",
+
+    "audit": "Prüfung",
+    "notStartedYet": "Noch nicht angefangen",
+    "newS": "Neu",
+    "ok": "OK",
+    "info": "Die Info",
+    "showStoredWheels": "Eingelagerte Räder anzeigen",
+    "moveMobileSpace": "Bewegen Sie den mobilen Raum",
+
+    "auditMode": "Audit-Modus",
+    "editBrands": "Marken bearbeiten",
+    "editSizes": "Größen bearbeiten",
+    "refreshSpaces": "Räume auffrischen",
+    "logOut": "Ausloggen",
+
+
+    "yes": "Ja",
+    "no": "Nein",
+
+    "addManufacturer" : "Hersteller hinzufügen",
+    "add": "Hinzufügen",
+    "favorites": "Favoritinnen",
+
+    "back": "Der Rücken",
+    "next": "Nächste",
+    "done": "Fertig",
+
+    "condition": "Bedingung",
+    "noData": "Keine Daten",
+    "otherwise": "Sonstiges",
+    "shelf": "Regal",
+    "physicalSpace": "Physikalischer Raum",
+    "virtualSpace": "Virtueller Raum",
+
+    "at" : "um",
+    "takePhoto": "Foto machen",
+    "chooseFromGallery": "Wählen Sie aus der Galerie",
+
+    "defaultError": "Etwas ist schief gelaufen",
+    "timeoutError": "Timeout in Verbindung mit Server",
+    "noInternet":"Keine Internetverbindung",
+    "changesWiiBeSaved": "Änderungen werden gespeichert, wenn Sie online gehen",
+
+    "requiredValidation": "Feld ist erforderlich",
+    "emailValidation": "E-Mail ist ungültig",
+    "passwordValidation" : "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "fetchingDataToServer": "Abrufen von Daten zum Server",
+    
+    "confirm": "Bestätigen",
+    "create": "Schaffen",
+    "cancel": "Absagen",
+    "save": "Speichern",
+    "search": "Suche",
+    "edit": "Bearbeiten",
+    "delete": "Löschen"
+}
