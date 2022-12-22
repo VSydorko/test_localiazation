@@ -11,7 +11,7 @@
     "moveTo": "Move to:",
 
     "homeTab": "Scan",
-    "storageRequest": "Deutsch",
+    "storageRequest": "Speicheranfragen",
     "deliveryRequest": "Delivery\nRequests",
     "tasks": "Tasks",
     "lastActions": "Last Actions",
@@ -118,6 +118,7 @@
     "emailValidation": "Email is invalid",
     "passwordValidation" : "Password length must be at least 6 characters",
     "fetchingDataToServer": "Fetching data to server",
+    "spaceWasNotFound": "The space {} was not found",
 
     "confirm": "Confirm",
     "add": "Add",
@@ -126,5 +127,6 @@
     "save": "Save",
     "search": "Search",
     "edit": "Edit",
-    "delete": "Delete"
+    "delete": "Delete",
+    "close": "Close"
 }
