@@ -120,6 +120,8 @@
     "fetchingDataToServer": "Fetching data to server",
     "spaceWasNotFound": "The space {} was not found",
 
+    "confirmDelete": "Are you sure you want to delete?",
+
     "confirm": "Confirm",
     "add": "Add",
     "create": "Create",
