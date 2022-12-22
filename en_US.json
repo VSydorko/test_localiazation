@@ -1,37 +1,33 @@
 {
-    "logIn" : "Log In",
+    "login" : "Log In",
     "email": "Email",
     "password": "Password",
 
-    "tabScan": "Scan",
-    "unstore": "Unstore",
+    "scanTab": "Scan",
     "mounted": "Mounted",
     "move": "Move",
     "moveToVirtualSpace" : "Move to virtual space",
     "allWheelsInWheelset": "All wheels in wheelset",
     "moveTo": "Move to:",
-    "trash": "Trash",
-    "customer": "Customer",
 
-    "tabHome": "Home",
+    "homeTab": "Scan",
     "storageRequest": "Storage\nRequests",
     "deliveryRequest": "Delivery\nRequests",
     "tasks": "Tasks",
     "lastActions": "Last Actions",
     "searchFor": "Search for {}",
 
-    "tabSearch": "Search",
+    "searchTab": "Search",
     "licenceplate": "Licenceplate",
     "name": "Name",
 
-    "call": "Call",
+    "emailAction": "Email",
+    "callAction": "Call",
 
     "wheelDetails": "Wheel Details",
     "copyToAllWheels": "Copy to all wheels",
-    "goodyear": "Goodyear Efficientgrid Performance",
-    "steel": "steel",
-    "alu": "alu",
-    "rimCov": "Rim\nCov.",
+    "rimTypeCardLabel": "steel\nalu",
+    "rimCoverCardLabel": "Rim\nCov.",
     "profiles": "Profiles",
     "rim": "Rim",
     "imagesNotes" : "Images & Notes ({})",
@@ -52,8 +48,8 @@
     "cover": "Cover",
     "rdks": "RDKS",
     "profileWithNumber": "Profile {}",
-    "inCar": "In Car",
-    "stored": "Stored",
+    "screwsInCarOption": "In Car",
+    "screwsStoredOption": "Stored",
 
     "addTask": "Add task",
     "when": "When",
@@ -63,11 +59,11 @@
     "addTextHere": "Add text here...",
 
     "storageRequestScreen": "Storage Requests",
+    "pickUpFrom": "Pick Up From:",
     "status": "Status",
     "waitingStatus": "Waiting",
     "transitStatus": "Transit",
     "doneStatus": "Done",
-    "pickUpFrom": "Pick Up From:",
 
     "deliveryRequestScreen": "Delivery Requests",
     "deliveryTo": "Delivery to:",
@@ -97,7 +93,6 @@
     "no": "No",
 
     "addManufacturer" : "Add Manufacturer",
-    "add": "Add",
     "favorites": "Favorites",
 
     "back": "Back",
@@ -107,11 +102,10 @@
     "condition": "Condition",
     "noData": "No data",
     "otherwise": "Other",
-    "shelf": "Shelf",
     "physicalSpace": "Physical Space",
     "virtualSpace": "Virtual Space",
 
-    "at" : "at",
+    "dateTimeSeparator" : "at",
     "takePhoto": "Take Photo",
     "chooseFromGallery": "Choose from Gallery",
 
@@ -126,6 +120,7 @@
     "fetchingDataToServer": "Fetching data to server",
 
     "confirm": "Confirm",
+    "add": "Add",
     "create": "Create",
     "cancel": "Cancel",
     "save": "Save",
